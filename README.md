@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a BS(CS) student , trying to build , learn and break stuff and possibly pose a sense of contribution to the world of tech...
+Just a CS student , trying to build , learn and break stuff and possibly pose a sense of contribution to the world of tech...
 
 
 ## 🌐 Socials:
